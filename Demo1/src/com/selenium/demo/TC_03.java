@@ -1,6 +1,6 @@
 package com.selenium.demo;
 
-public class TC_01 {
+public class TC_03 {
 
 	public static void main(String[] args) {
 		System.out.println("Test case 1");
